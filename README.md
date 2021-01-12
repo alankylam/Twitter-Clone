@@ -1,4 +1,8 @@
+# Twitter Clone
+Twitter Clone using React.js, MaterialUI, Firebase, and Netlify. 
 
+
+![Alt text](/Twitter.JPG?raw=true "Twitter")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
